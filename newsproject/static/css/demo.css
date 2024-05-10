@@ -1,0 +1,29 @@
+img{
+    width:275px;
+    height:450px;
+}
+h1{
+    color:red;
+    text-align:center;
+}
+body{
+    background:rgb(40, 137, 137);
+}
+.id{
+    display:flex;
+    color:red;
+    text-align:center;
+#btn {
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    color: #ccc;
+    font-weight: bold;
+    position: relative;
+    top: 29px;
+    border-radius: 13px;
+   }
+img{
+    border-radius:10px;
+    margin:10px
+}
